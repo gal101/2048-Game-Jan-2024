@@ -1,2 +1,3 @@
 # 2048 game Jan 2024
- o reproducere a cunoscutului joc 2048
+Unity version of popular 2048 game.
+It's just the base game, lacking other features.
